@@ -1,0 +1,12 @@
+/*
+border shorhand looks like this:{border:5px solid red;}
+
+the order is: border-width border-style*(required)border-color*/
+
+body{background-color: lightblue;}
+
+.wrapper{margin:5px}
+
+h1{text-align: center;}
+
+#title-p{text-align: center;}

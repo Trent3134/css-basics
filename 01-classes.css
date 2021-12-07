@@ -1,0 +1,10 @@
+/* rule-set #1:everything within the bodyu tag will have a blue background. */body{background-color: blue;}
+
+/* rule-set #2: everything within a css-classes class will have a light gray background. */.css-classes{background-color: lightgray;}
+
+/* rule-set #4: all of the p tags within a css-classes class will have a font-size of 18 pixels.*/.css-classes h1{font-size: 18px;}
+
+/* rule-set #4 all of th ep tags within a css-classes class will have a green font 16 pixels high.*/ {font-size: 16px;color: green}
+
+/*rule-set #5: all the 1i items within the css-classes class will have a blue font. */.css-classes 1i {color: navy}
+

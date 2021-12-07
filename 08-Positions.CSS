@@ -1,0 +1,5 @@
+.wrapper{margin: 5px;}
+
+.nav{position:fixed;}
+
+.nav{position:fixed; top:0; right; width: 250px; background-color: lightgray; border: 3px solid navy;}
